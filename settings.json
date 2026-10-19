@@ -3,12 +3,17 @@
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
+    "username": "yoo77",
+    "password": "Hehe",
     "type": "offline"
   },
   "server": {
     "ip": "survivalworld-dRNF.aternos.me",
     "port": 44019,
     "version": "",
+    "ip": "radiantsmp2.play.hosting",
+    "port": 25810,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
